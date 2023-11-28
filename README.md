@@ -1,4 +1,4 @@
-# CSE112
+# CSE112 Computer Organization and Architecture
 This is Summer 2023 Computer Organization and Architecture Major task. 
 In Phase I, tasks include implementing the MIPS register file, modifying the ALU, 
 and connecting modules to design a basic MIPS CPU capable of specific instructions. 
